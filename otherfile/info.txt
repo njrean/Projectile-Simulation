@@ -1,0 +1,9 @@
+: Features of the Shooter in this program             
+- spring constant: 719.43 N/m                
+- shooting range:  1 to 4 m
+- angle range: 15 to 80 dagree
+: Note
+1. The basket is 41 cm tall and the ball has a mass of 24 g.
+2. This simulation is regardless of air resistance.
+3. Initial position when shooting (x, y) = (0, height of shooter's end point)
+4. Distance which can be set is (1) the distance of initial point and (2) the center of the basket.
